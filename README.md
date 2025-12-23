@@ -2,19 +2,19 @@
 
 A comprehensive mobile application designed for nail technicians and beauty professionals to manage their business, track income, schedule appointments, learn new techniques, and shop for professional supplies.
 
-##App Screenshots
+## App Screenshots
 
-<img width="1320" height="2868" alt="Onboaridng 1" src="https://github.com/user-attachments/assets/e170996e-a8b1-49a7-8f72-40f90988fa23" />
+<img width="320" height="570" alt="Onboaridng 1" src="https://github.com/user-attachments/assets/e170996e-a8b1-49a7-8f72-40f90988fa23" />
 
-<img width="1320" height="2868" alt="Onboaridng 2" src="https://github.com/user-attachments/assets/699b98d0-653f-45e5-a720-bc27748128c7" />
+<img width="320" height="570" alt="Onboaridng 2" src="https://github.com/user-attachments/assets/699b98d0-653f-45e5-a720-bc27748128c7" />
 
-<img width="1320" height="2868" alt="Onboaridng 1" src="https://github.com/user-attachments/assets/a53b1e51-b963-4cf7-ad0e-1d5cb69dec67" />
+<img width="320" height="570" alt="Onboaridng 1" src="https://github.com/user-attachments/assets/a53b1e51-b963-4cf7-ad0e-1d5cb69dec67" />
 
-<img width="1320" height="3258" alt="Course detail subscribed" src="https://github.com/user-attachments/assets/7e299449-953c-4414-92cd-b9dd56d173cf" />
+<img width="320" height="570" alt="Course detail subscribed" src="https://github.com/user-attachments/assets/7e299449-953c-4414-92cd-b9dd56d173cf" />
 
-<img width="1320" height="2868" alt="Payment" src="https://github.com/user-attachments/assets/dffbd360-1214-405c-af1b-7db0305e5727" />
+<img width="320" height="570" alt="Payment" src="https://github.com/user-attachments/assets/dffbd360-1214-405c-af1b-7db0305e5727" />
 
-<img width="1760" height="6104" alt="Courses (1)" src="https://github.com/user-attachments/assets/86d33ac2-4345-4983-ab91-c1ac2c26bd6c" />
+<img width="320" height="570" alt="Courses (1)" src="https://github.com/user-attachments/assets/86d33ac2-4345-4983-ab91-c1ac2c26bd6c" />
 
 
 
